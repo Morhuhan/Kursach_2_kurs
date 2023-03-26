@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест\Слияние_тест\Source.cpp(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Слияние_тест.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест\Debug\Слияние_тест.exe
