@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Grehem_test\Grehem_test\Source.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Grehem_test.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Grehem_test\Debug\Grehem_test.exe
