@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(86,20): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "point"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(86,20): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "4" имеет тип "point"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(289,27): error C2672: "partition": не найдена соответствующая перегруженная функция
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(289,54): error C2782: _FwdIt std::partition(_FwdIt,const _FwdIt,_Pr): в шаблон параметр "_FwdIt" неоднозначен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(4746): message : см. объявление "std::partition"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(289,54): message : может быть "int"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(289,54): message : или       "point *"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(289,54): error C2784: _FwdIt std::partition(_FwdIt,const _FwdIt,_Pr): не удалось вывести аргумент шаблон для "const _FwdIt" из "int"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(4746): message : см. объявление "std::partition"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(299,13): error C3861: compare_points: идентификатор не найден
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_2\Слияние_тест_метод_2\Слияние_тест_метод_2\Source.cpp(458,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
