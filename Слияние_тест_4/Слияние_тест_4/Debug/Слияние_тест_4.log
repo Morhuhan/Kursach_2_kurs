@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(103,20): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(103,20): message : заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 2
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(103,20): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%f"
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(248,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(249,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(318,42): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(490,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Слияние_тест_4\Source.cpp(99): warning C4715: ConvexHull::indexOf: значение возвращается не при всех путях выполнения
+  Слияние_тест_4.vcxproj -> C:\Users\radio\OneDrive\Рабочий стол\Kurs_2\test 2\Main_test\Слияние_тест_4\Debug\Слияние_тест_4.exe
